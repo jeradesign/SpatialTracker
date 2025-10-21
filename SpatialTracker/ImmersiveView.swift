@@ -33,5 +33,4 @@ struct ImmersiveView: View {
 
 #Preview(immersionStyle: .mixed) {
     ImmersiveView()
-        .environment(AppModel())
 }
